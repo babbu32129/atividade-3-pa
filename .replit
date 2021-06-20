@@ -43,5 +43,6 @@ cin >> n1.l1;
 cout << "insira o lado 2: " << endl;
 cin >> n1.l2;
 
+n1.mostra();
 
 }
