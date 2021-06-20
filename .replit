@@ -22,6 +22,13 @@ float are(int l1, int l2){
     return area;
   }
 
+float perimetro(int l1, int l2, float l3){
+
+    peri = l1+l2+l3;
+
+    return peri;
+  }
+  
 };
 
 int main() {
