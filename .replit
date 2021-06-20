@@ -12,7 +12,12 @@ int peri=0;
 
 int main() {
 
+tTriangulos n1;
 
+cout << "insira o lado 1: " << endl;
+cin >> n1.l1;
+cout << "insira o lado 2: " << endl;
+cin >> n1.l2;
 
 
 }
