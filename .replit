@@ -15,6 +15,13 @@ float hipo(int l1, int l2){
     return l3;
   }
 
+float are(int l1, int l2){
+  
+    area=((l1*l2)/2);
+
+    return area;
+  }
+
 };
 
 int main() {
