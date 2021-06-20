@@ -8,6 +8,13 @@ int l3=0;
 int area=0;
 int peri=0;
 
+float hipo(int l1, int l2){
+
+    l3=((l1^2)+(l2^2))^(1/2);
+    
+    return l3;
+  }
+
 };
 
 int main() {
