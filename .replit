@@ -32,6 +32,7 @@ float perimetro(int l1, int l2, float l3){
    cout << "o perimetro eh: " << peri << endl;
    cout << "a area eh: " << area << endl;
    cout << "a hipotenusa eh: " << l3 << endl;
+   }
 };
 
 int main() {
